@@ -1,5 +1,7 @@
-langgenius/dify-web:0.12.1
-langgenius/dify-api:0.12.1
+langgenius/dify-api:1.0.1
+langgenius/dify-web:1.0.1
+postgres:15-alpine
 langgenius/dify-sandbox:0.2.10
+langgenius/dify-plugin-daemon:0.0.4-local
+ubuntu/squid:latest
 docker.elastic.co/elasticsearch/elasticsearch:8.14.3
-docker.elastic.co/kibana/kibana:8.14.3
