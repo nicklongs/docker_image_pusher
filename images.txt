@@ -5,3 +5,5 @@ langgenius/dify-sandbox:0.2.10
 langgenius/dify-plugin-daemon:0.0.4-local
 ubuntu/squid:latest
 docker.elastic.co/elasticsearch/elasticsearch:8.14.3
+infiniflow/ragflow:v0.17.2
+infiniflow/ragflow:v0.17.2-slim
