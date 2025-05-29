@@ -7,4 +7,5 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 #infiniflow/ragflow:v0.17.2
 #infiniflow/ragflow:v0.17.2-slim
-infiniflow/infinity:nightly
+#infiniflow/infinity:nightly
+xprobe/xinference:latest
