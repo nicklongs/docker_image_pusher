@@ -9,4 +9,5 @@
 #infiniflow/ragflow:v0.17.2-slim
 #infiniflow/infinity:nightly
 #xprobe/xinference:latest
-vllm/vllm-openai:v0.6.0
+#vllm/vllm-openai:v0.6.0
+xprobe/xinference:v1.6.0
