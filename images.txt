@@ -10,4 +10,7 @@
 #infiniflow/infinity:nightly
 #xprobe/xinference:latest
 #vllm/vllm-openai:v0.6.0
-xprobe/xinference:v1.6.0
+#xprobe/xinference:v1.6.0
+langgenius/dify-api:1.4.1
+langgenius/dify-web:1.4.1
+langgenius/dify-plugin-daemon:0.1.1-local
