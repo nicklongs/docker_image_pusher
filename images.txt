@@ -14,4 +14,4 @@
 #langgenius/dify-api:1.4.1
 #langgenius/dify-web:1.4.1
 #langgenius/dify-plugin-daemon:0.1.1-local
-docker pull michaelf34/infinity
+michaelf34/infinity:0.0.76.colpali
