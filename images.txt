@@ -15,4 +15,5 @@
 #langgenius/dify-web:1.4.1
 #langgenius/dify-plugin-daemon:0.1.1-local
 #michaelf34/infinity:0.0.76.colpali
-infiniflow/ragflow:v0.19.1-slim
+#infiniflow/ragflow:v0.19.1-slim
+michaelf34/infinity:0.0.76
