@@ -19,4 +19,8 @@
 #michaelf34/infinity:0.0.76
 #langgenius/dify-api:1.6.0
 #langgenius/dify-web:1.6.0
-savatar101/omniparse:0.1
+#savatar101/omniparse:0.1
+langgenius/dify-api:1.11.1
+langgenius/dify-web:1.11.1
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.5.1-local
