@@ -24,5 +24,7 @@
 #langgenius/dify-web:1.11.1
 #langgenius/dify-sandbox:0.2.12
 #langgenius/dify-plugin-daemon:0.5.1-local
-langgenius/dify-api:1.11.4
-langgenius/dify-web:1.11.4
+#langgenius/dify-api:1.11.4
+#langgenius/dify-web:1.11.4
+langgenius/dify-api:1.17.0
+langgenius/dify-web:1.17.0
