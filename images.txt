@@ -28,3 +28,4 @@
 #langgenius/dify-web:1.11.4
 langgenius/dify-api:1.17.0
 langgenius/dify-web:1.17.0
+langgenius/dify-agent-backend:1.17.0
