@@ -29,3 +29,4 @@
 langgenius/dify-api:1.17.0
 langgenius/dify-web:1.17.0
 langgenius/dify-agent-backend:1.17.0
+cr.weaviate.io/semitechnologies/weaviate:1.39.2
