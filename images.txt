@@ -28,9 +28,11 @@
 #langgenius/dify-web:1.11.4
 #langgenius/dify-api:1.17.0
 #langgenius/dify-web:1.17.0
-langgenius/dify-agent-backend:1.19.0
-langgenius/dify-api:1.19.0
-langgenius/dify-web:1.19.0
-langgenius/dify-plugin-daemon:0.6.14-local
-langgenius/dify-sandbox:0.2.15
-cr.weaviate.io/semitechnologies/weaviate:1.39.2
+#langgenius/dify-agent-backend:1.19.0
+#langgenius/dify-api:1.19.0
+#langgenius/dify-web:1.19.0
+#langgenius/dify-plugin-daemon:0.6.14-local
+#langgenius/dify-sandbox:0.2.15
+#cr.weaviate.io/semitechnologies/weaviate:1.39.2
+cr.weaviate.io/semitechnologies/weaviate:1.39.13
+langgenius/dify-agent-local-sandbox:1.19.0
